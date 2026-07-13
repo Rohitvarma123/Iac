@@ -10,7 +10,7 @@ on:
       - main
 
 env:
-  AWS_REGION: ap-south-1
+  AWS_REGION: eu-west-2
 
 jobs:
 
